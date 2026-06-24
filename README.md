@@ -1,4 +1,4 @@
-# Bonjour, je suis Maxime Vezinet 👋
+## Bonjour👋
 
 Étudiant en ingénierie, je me spécialise à l'intersection entre les algorithmes d'apprentissage et la physique fondamentale. Mon objectif est d'exploiter les outils numériques pour accélérer la recherche et la conception en nanosciences et technologies quantiques. Je code par plaisir pour accélerer ma recherche.
 
