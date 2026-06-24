@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @maximevez
-- 👀 I’m interested in sciences in global
-- 🌱 I’m currently learning engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i do that for fun
+# Bonjour, je suis Maxime Vezinet 👋
 
-<!---
-maximevez/maximevez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Étudiant en ingénierie, je me spécialise à l'intersection entre les algorithmes d'apprentissage et la physique fondamentale. Mon objectif est d'exploiter les outils numériques pour accélérer la recherche et la conception en nanosciences et technologies quantiques. Je code par plaisir pour accélerer ma recherche.
+
+### 🛠️ Domaines d'expertise & Centres d'intérêt
+* **Physique Appliquée :** Photonique intégrée, Microélectronique, Optique non-linéaire, Calcul tensoriel.
+* **Algorithmique & Simulation :** Machine Learning, Dynamique Moléculaire, Inverse Design, Modélisation multiphysique (Lumerical, COMSOL).
+
